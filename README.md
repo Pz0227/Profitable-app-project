@@ -32,4 +32,4 @@ Both datasets were sampled from Kaggle and include key app details such as ratin
 
 ## 🔗 View the Project
 
-👉 [Click here to view the full Jupyter Notebook](https://github.com/Pz0227/Profitable-app-project/blob/main/AppleStore_Project.ipynb)
+👉 [Click here to view the project](https://github.com/Pz0227/Profitable-app-project/blob/main/AppleStore_Project.ipynb)
